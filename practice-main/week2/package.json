@@ -1,0 +1,19 @@
+{
+  "name": "ppl_ps1",
+  "version": "1.0.0",
+  "description": "Practical Session #2 of \"Principles of Programming Languages 2020\" course - BGU",
+  "keywords": [],
+  "scripts": {
+    "start": "ts-node ps2.ts"
+  },
+  "author": "Michael Elhadad",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.27.38",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.5"
+  }
+}
